@@ -4,7 +4,8 @@
   "description": "Calendário & Eventos - Agendamento",
   "main": "app.js",
   "scripts": {
-    "start": "node backend/app.js"
+    "start": "node backend/app.js",
+    "dev": "node --watch backend/app.js"
   },
   "keywords": [],
   "author": "",
